@@ -13,3 +13,5 @@ Name,Time |
 Here 'Name' is the name by which the image is saved and 'Time' is the time when the program recognized the person.
 
 Some necessary dependencies are: cmake, face-recognition, dlib, numpy, opencv-python
+
+![Webcam 19-07-2022 20_41_17](https://user-images.githubusercontent.com/88593294/179785654-59cef87d-aeb8-4795-a492-b4b25aeebddc.png)
