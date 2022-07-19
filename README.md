@@ -1,4 +1,4 @@
-The program uses pre-uploaded images to recognize faces.
+The program uses pre-uploaded images to recognize faces.__
 In a folder upload the images of people you want the program to recognize and name those images as the name you want for that person to be associated with in the attendance file.
 Input the folder name.
 After the program is run, it uses webcam to detect faces.
